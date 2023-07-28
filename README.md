@@ -1,4 +1,6 @@
 <img width="943" alt="weatherapp" src="https://github.com/inayatDeveloper/Codeing-challenge-stixor-Weather-App-with-React-and-Next.js/assets/22600231/50f1d86b-fa63-40f2-aaa2-b99dfc9160a0">
+
+
 Title:
 
 Weather App with React and Next.js
